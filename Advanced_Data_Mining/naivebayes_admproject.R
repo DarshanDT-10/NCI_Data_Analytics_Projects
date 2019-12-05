@@ -1,6 +1,3 @@
-#---------- Amit, Ankita, Darshan, Sagar-------
-#----------Code was developed with similar to Naive Bayes explained in book(Machine Learning with R- Brett Lantz)---
-
 install.packages("dplyr")
 install.packages("tm")
 install.packages("SnowballC")
