@@ -2,7 +2,7 @@
 
 This repository provides all the codes of different projects that was implemented as part of my post graduation studies at National College of Ireland.
 
-Folder Descritions:
+Folder Description:
 
 1.Advanced Data Mining: Developed this project as a part of Avanced Data Mining module
 
